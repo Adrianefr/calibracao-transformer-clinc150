@@ -1,0 +1,3 @@
+data_full.json
+*.npz
+__pycache__/
